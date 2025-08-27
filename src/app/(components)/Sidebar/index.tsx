@@ -31,4 +31,9 @@ const Sidebar = () => {
   );
 };
 
+const SidebarLink = {(
+  href,
+  icon: Icon,
+)
+};
 export default Sidebar;
